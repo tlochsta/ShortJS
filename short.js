@@ -1,3 +1,7 @@
+/*
+  ShortJS v1.0.0
+  Copyright (c) 2023 tlochsta. All rights reserved.
+*/
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => document.querySelectorAll(selector);
 const on = (element, event, callback) => element.addEventListener(event, callback);
@@ -63,4 +67,3 @@ const width = (element, value) => {
 const height = (element, value) => {
     element.style.height = value;
 };
-
