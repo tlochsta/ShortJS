@@ -58,7 +58,7 @@ ShortJS is a JavaScript function pack that rewraps common JavaScript functions t
 To use ShortJS functions, simply include the ShortJS script in your HTML file:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/TlochstaDev/ShortJS@main/short.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/tlochsta/ShortJS@main/short.js"></script>
 ```
 Then, you can use the functions in your JavaScript code:
 
